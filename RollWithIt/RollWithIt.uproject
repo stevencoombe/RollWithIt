@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EFD8705D-477B-99C0-CCDA-C4AE0A8E17E8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RollWithIt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

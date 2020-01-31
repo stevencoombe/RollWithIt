@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\RollWithIt.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{BCF38C2B-D75F-4B2B-82AF-67C341DCEC9C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RollWithIt.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\RollWithItEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{8006D2BA-92BB-47DE-8461-76BE75DF36CB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\RollWithIt">
+			<UniqueIdentifier>{9CCEB9C4-D1D0-4F95-88EB-1EB0866FDC8B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RollWithIt\RollWithIt.Build.cs">
+			<Filter>Source\RollWithIt</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\RollWithIt\RollWithIt.cpp">
+			<Filter>Source\RollWithIt</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RollWithIt\RollWithIt.h">
+			<Filter>Source\RollWithIt</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\RollWithIt\RollWithItBall.cpp">
+			<Filter>Source\RollWithIt</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RollWithIt\RollWithItBall.h">
+			<Filter>Source\RollWithIt</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\RollWithIt\RollWithItGameMode.cpp">
+			<Filter>Source\RollWithIt</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RollWithIt\RollWithItGameMode.h">
+			<Filter>Source\RollWithIt</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
